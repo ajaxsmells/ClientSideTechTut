@@ -1,0 +1,103 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #e0b0ff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 1440/1024;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Lemon-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1270px;
+  top: 106px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Lemon-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1161px;
+  top: 106px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Lemon-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 996px;
+  top: 106px;
+}
+.let-s-create-a-website-design {
+  color: #f5f5f5;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 204px;
+  top: 475px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #f5f5f5;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 402px);
+  top: calc(50% - -66px);
+  width: 837px;
+  height: 77px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Lemon-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 85px;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 666px;
+  overflow: visible;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 680px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
